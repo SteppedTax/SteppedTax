@@ -3,3 +3,4 @@
 - Python moment 🐍
 - going for JS ☕
 - i came here to make dum things and personal things and other things and...
+- the only thing that i can code is lil python macros 🙃
