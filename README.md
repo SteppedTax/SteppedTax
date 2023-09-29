@@ -1,0 +1,5 @@
+- Very dum guy 😳
+- i dunno what to expect 👍
+- Python moment 🐍
+- going for JS ☕
+- i came here to make dum things and personal things and other things and...
