@@ -1,7 +1,8 @@
 # Hi!
 ## I'm SteppedTax and I do things :)
-![i don't know what alt text is for and where to see it](https://github.com/SteppedTax/SteppedTax/blob/a3bdd880e9f1b5f0653c85830ff39da185ab1add/profile.png "A very nice profile picture thingy")
 
+![Badge shotout](https://img.shields.io/badge/Shotout_to-Limyrzzzin-262022?style=plastic&link=https%3A%2F%2Fgithub.com%2FLimyrzzzin "you don't have to click on it")
 - **I like music.** *Wanna make music too but I mentally can't lol*
 - Honestly? Have *no idea* how to code. Using **Python** because it's simple and it's not **VBScript**.
-- Shotout to *[Limyrzzin](https://github.com/Limyrzzzin "you don't have to click on it")* for simply existing.
+
+![Banner](https://github.com/SteppedTax/SteppedTax/blob/a3bdd880e9f1b5f0653c85830ff39da185ab1add/profile.png "A very nice profile picture thingy")
