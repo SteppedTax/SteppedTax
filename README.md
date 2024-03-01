@@ -4,4 +4,4 @@
 
 - **I like music.** *Wanna make music too but I mentally can't lol*
 - Honestly? Have *no idea* how to code. Using **Python** because it's simple and it's not **VBScript**.
-- Shotout to [Limyrzzin](https://github.com/Limyrzzzin "you don't have to click on it") for simply existing.
+- Shotout to *[Limyrzzin](https://github.com/Limyrzzzin "you don't have to click on it")* for simply existing.
