@@ -1,6 +1,6 @@
 # Hi!
 ## I'm SteppedTax and I do things :)
-![very good](https://github.com/SteppedTax/SteppedTax/blob/a3bdd880e9f1b5f0653c85830ff39da185ab1add/profile.png "great")
+![i don't know what alt text is for and where to see it](https://github.com/SteppedTax/SteppedTax/blob/a3bdd880e9f1b5f0653c85830ff39da185ab1add/profile.png "A very nice profile picture thingy")
 
 - stoopid 😳
 - horrible coding experience 🗣
