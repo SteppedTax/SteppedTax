@@ -1,6 +1,5 @@
-- Very dum guy 😳
-- i dunno what to expect 👍
-- Python moment 🐍
-- going for JS ☕
-- i came here to make dum things and personal things and other things and...
-- the only thing that i can code is lil python macros 🙃
+- stoopid 😳
+- horrible coding experience 🗣
+- BAD Python moment 🐍
+- please don't use vbscript IBEGYOU 📜
+- nah im just gonna use github to host sites lol 🙃
