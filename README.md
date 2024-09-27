@@ -6,7 +6,8 @@
 ![Badge shotout](https://img.shields.io/badge/Shotout_to-Limyrzzzin-1C1C1C?style=plastic&link=https://github.com/Limyrzzzin "you don't have to click on it")
 ![idk](https://img.shields.io/badge/I_don't_know-what_to_put_in_here_anymore-8673A1?style=plastic "I actually don't know")
 
-- **I like music.** *Wanna make music too but I mentally can't lol*
-- Honestly? Have *no idea* how to code. Using **Python** because it's simple and it's not **VBScript**.
+- You *could* say I know how to code. Know a wee bit of **Python** and some **HTML** on top. (gonna exclude all the scripting langs lel)
+- **I like music.** *I wanna make music too but I literally can't lol*
+- *will finish the list later*
 
 ![Banner](https://github.com/SteppedTax/SteppedTax/blob/a3bdd880e9f1b5f0653c85830ff39da185ab1add/profile.png "A very nice profile picture thingy")
