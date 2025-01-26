@@ -10,7 +10,7 @@ Fuck it. I'm literally just going to comment this whole thing because I dont fuc
 ![idk](https://img.shields.io/badge/I_don't_know-what_to_put_in_here_anymore-8673A1?style=plastic "I actually don't know") 
 --->
 
-- You *could* say I know how to code. Know a wee bit of **Python** and some **HTML** on top. (gonna exclude all the scripting langs lel)
+- You *could* say I know how to code. Know a wee bit of **Python**, **Java** and some **HTML** on top. (gonna exclude all the scripting langs lel)
 - **I like music.** *I wanna make music too but I literally can't lol*
 - *will finish the list later*
 
